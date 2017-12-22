@@ -1,0 +1,9 @@
+[submodule "Tutorial1"]
+	path = Tutorial1
+	url = https://github.com/vais-ral/NikonCT-Tutorial1.git
+[submodule "Tutorial2"]
+	path = Tutorial2
+	url = https://github.com/vais-ral/NikonCT-Tutorial2.git
+[submodule "Tutorial3"]
+	path = Tutorial3
+	url = https://github.com/vais-ral/NikonCT-Tutorial3.git
